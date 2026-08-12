@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="ridrIconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6A45"/>
+      <stop offset="55%" stop-color="#E62E82"/>
+      <stop offset="100%" stop-color="#6A2DBE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#ridrIconGrad)"/>
+  <text x="494" y="699" text-anchor="middle"
+        font-family="Poppins, 'Poppins Bold', ui-rounded, system-ui, -apple-system, 'Segoe UI', sans-serif"
+        font-weight="800" font-size="660" letter-spacing="-8"
+        fill="#ffffff">r</text>
+</svg>
